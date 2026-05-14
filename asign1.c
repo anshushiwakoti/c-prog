@@ -9,6 +9,6 @@ if(a==0){
     printf("even");
 }
 else{
-    printf("odd");
+    printf("extraaaaa");
 }
 }
